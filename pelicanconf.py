@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+
 AUTHOR = u'Shivani Thakur'
 SITENAME = u'Vision'
 SITEURL = ''
@@ -11,6 +12,8 @@ PATH = 'content'
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
+
+THEME = "/home/user/pelican-themes/blueidea"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
