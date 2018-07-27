@@ -13,7 +13,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
-THEME = "/home/shivani/pelican-themes/pelican-striped-html5up"
+THEME = "/home/shivani/pelican-themes/attila"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -29,8 +29,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL =    (('linkedin', 'https://www.linkedin.com/in/username'), ('github', 'https://github.com/username'), ('twitter', 'https://twitter.com/username'), )
 
 DEFAULT_PAGINATION = False
 
