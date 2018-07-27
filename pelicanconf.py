@@ -13,7 +13,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
-THEME = "/home/shivani/pelican-themes/notebook"
+THEME = "/home/shivani/pelican-themes/pelican-striped-html5up"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
